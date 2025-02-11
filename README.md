@@ -1,0 +1,1 @@
+This is an analysis of Bow Valley College network infrastructure, the analysis conducted between January 2023 - April 2023. The document contains insights and suggestions on how to fortify network devices and enviorment against quantum cyber attacks. 
